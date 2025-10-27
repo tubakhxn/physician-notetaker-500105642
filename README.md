@@ -56,5 +56,6 @@ We recommend including a short textual log from the terminal rather than screens
 	```
 
 	- Open `run_output.txt`, copy a brief excerpt (2–6 lines) showing the Structured Summary or SOAP JSON, and paste it into `SUBMISSION.md` or the email reply.
+Made with 🩷 by @tubakhxn
 
 
