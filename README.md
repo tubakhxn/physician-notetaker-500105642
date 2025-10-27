@@ -57,21 +57,4 @@ We recommend including a short textual log from the terminal rather than screens
 
 	- Open `run_output.txt`, copy a brief excerpt (2–6 lines) showing the Structured Summary or SOAP JSON, and paste it into `SUBMISSION.md` or the email reply.
 
-2) Optional — include a screenshot image (not recommended for primary evidence):
 
-	- Capture a screenshot on Windows: press Win+Shift+S to use Snip & Sketch, save the image as `docs/screenshots/run_demo.png`.
-	- Add and commit the image to git:
-
-	```powershell
-	git add docs/screenshots/run_demo.png
-	git commit -m "docs: add demo run screenshot"
-	git push
-	```
-
-	- In your `README.md` or `SUBMISSION.md` reference the image using Markdown:
-
-	```markdown
-	![Demo run output](docs/screenshots/run_demo.png)
-	```
-
-If you want, I can add a sample textual `run_output.txt` to this repo (a safe, text-only record of expected output) which you may replace with your actual local log before committing. Tell me if you want me to add that sample file now.
